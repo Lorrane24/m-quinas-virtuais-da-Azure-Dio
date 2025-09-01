@@ -25,8 +25,7 @@ Este repositório contém o resumo das atividades realizadas durante o laborató
    - Exploração de boas práticas de monitoramento e manutenção preventiva.
 
 4. **Documentação e Uso do GitHub**
-   - Registro detalhado de todas as etapas no arquivo README.md.  
-   - Possibilidade de anexar capturas de tela na pasta `/images` para ilustrar a configuração.  
+   - Registro detalhado de todas as etapas no arquivo README.md.    
    - Organização da documentação de forma estruturada, servindo como referência futura.
 
 ---
